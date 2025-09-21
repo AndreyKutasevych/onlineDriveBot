@@ -7,7 +7,7 @@ yarn-error.log*
 lerna-debug.log*
 
 # Vite cache
-onlinebrivebot.vite
+onlinedrivebot/.vite/deps
 
 # Node modules
 node_modules
